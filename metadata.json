@@ -1,0 +1,6 @@
+{
+  "name": "Joanna's Cafe",
+  "description": "Modern Afro-Western Café in St Marys, SA serving hearty Afro-Australian meals and specialty coffee.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
