@@ -1,5 +1,5 @@
 import { GalleryItem } from '../types';
-import jollofImg from '../assets/images/jollof_rice_chicken_1790065511779.jpg';
+import jollofImg from '../assets/images/jollof_grilled_chicken_breast_1790332168915.jpg';
 import beefStewImg from '../assets/images/spicy_beef_stew_1790065528829.jpg';
 import schnitzelImg from '../assets/images/chicken_schnitzel_1790065547774.jpg';
 import parmiImg from '../assets/images/chicken_parmi_1790065563483.jpg';
@@ -7,15 +7,15 @@ import pancakesImg from '../assets/images/pancakes_fruit_1790065580907.jpg';
 import chickenAvoSaladImg from '../assets/images/chicken_avocado_salad_1790065595112.jpg';
 import caesarSaladImg from '../assets/images/classic_caesar_salad_1790065608791.jpg';
 import greekSaladImg from '../assets/images/greek_salad_1790065623788.jpg';
-import pumpkinFetaSaladImg from '../assets/images/pumpkin_feta_salad_1790065638200.jpg';
+import pumpkinFetaSaladImg from '../assets/images/diced_pumpkin_feta_salad_1790332361997.jpg';
 
 export const GALLERY_ITEMS: GalleryItem[] = [
   // Brunch & Lunch (Signature Afro-Western Dishes)
   {
     id: 'gal-jollof',
-    name: 'West African Jollof Rice with Grilled Chicken',
+    name: 'West African Jollof Rice with Grilled Chicken Breast',
     category: 'brunch-lunch',
-    description: 'Fragrant tomato and pepper rice with grilled chicken and house chilli sauce on request.',
+    description: 'Fragrant tomato and pepper rice with tender seasoned grilled chicken breast fillet and house chilli sauce on request.',
     image: jollofImg,
     badge: 'Signature Afro-Western',
   },
@@ -78,7 +78,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     id: 'gal-pumpkin-feta',
     name: 'Roast Pumpkin and Feta Salad',
     category: 'salads',
-    description: 'Baby spinach, roast pumpkin, feta, pepitas and balsamic dressing.',
+    description: 'Baby spinach, roasted diced pumpkin cubes, Greek feta, crunchy pepitas and balsamic dressing.',
     image: pumpkinFetaSaladImg,
     dietary: ['V', 'GF'],
   },
@@ -109,8 +109,8 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     name: 'Cozy Table Seating & Atmosphere',
     category: 'interior',
     description: 'Inviting indoor setting designed for relaxed breakfast catchups, business lunches, and quiet coffee breaks.',
-    image: 'https://i.imgur.com/VlIoIyR.jpg',
-    originalUrl: 'https://imgur.com/VlIoIyR',
+    image: 'https://i.imgur.com/TpjLd1W.jpg',
+    originalUrl: 'https://imgur.com/TpjLd1W',
     badge: 'Dine-In Space',
   },
   {
