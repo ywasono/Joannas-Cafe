@@ -67,9 +67,9 @@ export const FOOD_ITEMS: FoodItem[] = [
   // Brunch & Lunch (Signature Afro-Western Dishes)
   {
     id: 'sig-1',
-    name: 'West African Jollof Rice with Grilled Chicken',
+    name: 'West African Jollof Rice with Grilled Chicken Breast',
     price: '$24.90',
-    description: 'Fragrant, slow-reduced tomato, pepper and aromatic herb rice topped with tender grilled spiced chicken. Served with house chilli sauce on request.',
+    description: 'Fragrant, slow-reduced tomato, pepper and aromatic herb rice topped with tender grilled spiced chicken breast. Served with house chilli sauce on request.',
     isSignature: true,
     badge: 'Afro-Western Signature',
     category: 'brunch-lunch',
@@ -101,7 +101,7 @@ export const FOOD_ITEMS: FoodItem[] = [
     id: 'lunch-5',
     name: 'Pancakes with Seasonal Fruit',
     price: '$18.90',
-    description: 'Stack of three fluffy golden pancakes crowned with seasonal berries and fruit, pure maple syrup and chantilly whipped cream.',
+    description: 'Golden pancakes crowned with seasonal berries and fruit, pure maple syrup and chantilly whipped cream.',
     dietary: ['V'],
     category: 'brunch-lunch',
   },

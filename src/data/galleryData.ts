@@ -3,7 +3,7 @@ import jollofImg from '../assets/images/jollof_grilled_chicken_breast_1790332168
 import beefStewImg from '../assets/images/spicy_beef_stew_1790065528829.jpg';
 import schnitzelImg from '../assets/images/chicken_schnitzel_1790065547774.jpg';
 import parmiImg from '../assets/images/chicken_parmi_1790065563483.jpg';
-import pancakesImg from '../assets/images/three_layer_pancakes_fruit_1790334258060.jpg';
+import pancakesImg from '../assets/images/thin_pancakes_fruit_1790334540697.jpg';
 import chickenAvoSaladImg from '../assets/images/chicken_avocado_salad_1790065595112.jpg';
 import caesarSaladImg from '../assets/images/classic_caesar_salad_1790065608791.jpg';
 import greekSaladImg from '../assets/images/greek_salad_1790065623788.jpg';
@@ -46,7 +46,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     id: 'gal-pancakes',
     name: 'Pancakes with Seasonal Fruit',
     category: 'brunch-lunch',
-    description: 'Stack of three fluffy golden pancakes, seasonal fruit and berries, pure maple syrup and whipped cream.',
+    description: 'Golden pancakes, seasonal fruit, maple syrup and whipped cream.',
     image: pancakesImg,
     dietary: ['V'],
   },
